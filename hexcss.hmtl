@@ -1,0 +1,10 @@
+h3 { color:#cc6666;
+	/*Add your CSS hex color here!*/
+}
+
+h2 { color:#8a2be2;
+	/*Add your CSS hex color here!*/
+}
+
+/* hex code: "You're already extremely familiar with decimal values: it's everyday counting! You know when you see a number (e.g. 1,432) that each digit can only be the ten values 0 through 9. Because there are only ten possibilities, we say that regular counting is base-10.
+Hexadecimal counting is base-16. Each digit can be the numbers 0 through 9 or the letters a through f!"*/
